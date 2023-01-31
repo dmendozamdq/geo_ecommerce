@@ -11,8 +11,8 @@ function App() {
     
     <div className="App">
       <>
-      <NavBarGEO title={"Geo Capacitación"}></NavBarGEO>
-      <Listcontainer greeting={"Oferta de cursos y capacitaciones de GEO"}></Listcontainer>
+      <NavBarGEO title={"Geo Capacitación"}/>
+      <Listcontainer greeting={"Oferta de cursos y capacitaciones de GEO"}/>
     </>
         
     </div>

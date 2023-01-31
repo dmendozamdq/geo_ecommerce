@@ -10,10 +10,9 @@ const NavBarGEO = ({title},{children}) => {
 
 return (
           <>
-             <Navbar className="nav_background">
+            <Navbar className="nav_background">
               <Container>
                 <Navbar.Brand>
-                  
                   <p className="brand_title">{title}</p>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -22,19 +21,14 @@ return (
                     <NavLinkGEO titlebutton={"Gestión de Proyectos"}></NavLinkGEO>
                     <NavLinkGEO titlebutton={"Diseño Pedagógico"}></NavLinkGEO>
                     <NavLinkGEO titlebutton={"Evaluación"}></NavLinkGEO>
-                    <NavLinkGEO titlebutton={"Coaching Educativo"}></NavLinkGEO>
-                    
+                    <NavLinkGEO titlebutton={"Coaching Educativo"}></NavLinkGEO>  
                   </Nav>
                   <Nav>
-                    <CartGEO totalitemscart={"0"}></CartGEO>
-                    
+                    <CartGEO totalitemscart={"0"}></CartGEO>  
                   </Nav>
                 </Navbar.Collapse>
-                        
-                          
-                          
-                      </Container>
-                    </Navbar>
+              </Container>
+            </Navbar>
           </>  
         );
 
