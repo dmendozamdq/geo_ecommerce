@@ -1,11 +1,19 @@
 import React from "react";
+//import Item from "../Item";
+import ItemList from "../ItemList";
+import ItemDetailContainer from "../ItemDetailContainer";
 
-const Listcontainer = ({greeting}) => {
+const Listcontainer = ({greeting, subtitle}) => {
 
     return (
+        
         <div>
-        <h1>{greeting}</h1>
+        
+        <h2>{greeting}</h2>
+        <h6>{subtitle}</h6>
+        <ItemDetailContainer />
         </div>
+        
         
     );
 

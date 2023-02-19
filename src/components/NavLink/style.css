@@ -1,0 +1,13 @@
+.category_title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 14px 16px;
+    text-shadow: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    margin: 0;
+
+}
+
+a {
+    text-decoration: none;
+}

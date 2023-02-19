@@ -1,0 +1,47 @@
+export const mockedProducts = [
+    {
+        id: "1",
+        category: "MULTINIVEL",
+        id_category: "1",
+        title: "CAPACITACIÓN EN CONFECCIÓN DE ACTAS",
+        description: "La elaboración de actas es un tema no abordado prácticamente en ningún espacio formativo docente y es sumamente importante a la hora de presentarse una situación de conflicto. Conocer los aspectos fundamentales de su confección para que tenga validez y resguarde al docente, es uno de los grandes objetivos de este taller. La jornada comienza con la simulación actoral de una reunión entre un docente y una familia, para lo que los asistentes, deberán levantar el acta correspondiente según su parecer y experiencia. Posteriormente, se abordarán explorarán colaborativamente las actas confeccionadas, en donde el capacitador marcará aspectos faltantes, a corregir y porque no, rescatando aportes que pudieran identificarse en las producciones. Una vez revisadas todas las cuestiones formales y legales, se les presenta a los asistentes una nueva situación actoral en la que se vuelve a proponer el desafío de levantar acta, esperándose observar las recomendaciones trabajadas.",
+        price: "3500.00",
+        pictureURL: "https://geoeducacion.com.ar/congresos/assets/img/A_redaccion_actas.jpg",
+    },
+    {
+        id: "2",
+        category: "MULTINIVEL",
+        id_category: "1",
+        title: "CAPACITACIÓN PARA EQUIPOS DIRECTIVOS PARA LA ELABORACIÓN y REDISEÑO DEL PROYECTO INSTITUCIONAL",
+        description: "Los equipos directivos de las instituciones son quienes tienen la responsabilidad de llevar adelante el proyecto institucional, más allá de que otros actores forman parte del mismo. Para aquellos equipos que quieren cambiar la mirada tradicional y animarse a pensar en una educación que realmente satisfaga las necesidades de los alumnos y las familias, este taller invita a hacerlo a partir de las técnicas más exitosas que se desarrollan en el mundo: Innovación, tecnología y metodologías ágiles, ofrecen una mirada distinta que apunta a cubrir necesidades específicas de manera eficaz y rápida. También el taller otorga herramientas concretas para reformar el proyecto institucional, atendiendo mediante la agilidad y con una mirada integral, a todos los actores institucionales y sus necesidades. Los asistentes podrán diseñar junto al especialista, instrumentos concretos basados en Desing Thinking, Lean Startup y Desing Sprint para realizar un relevamiento de necesidades, definición de objetivos y diagnóstico exhaustivo de sus colegios. Con Kanban y Scrum, se los guiará en el plan de implementación y monitoreo del proyecto. Un taller muy necesario para aquellas instituciones que desean animarse a los cambios, a desestructurar lo estructurado, a mover cuestiones arraigadas que responden a otro paradigma y sobre todo, para los que miran la educación que viene.",
+        price: "55000.00",
+        pictureURL: "https://geoeducacion.com.ar/congresos/assets/img/A_agilida.jpg",
+    },
+    {
+        id: "3",
+        category: "NIVEL SECUNDARIO",
+        id_category: "4",
+        title: "CAPACITACIÓN EN REDACCIÓN DE INFORMES NARRADOS (Nivel Primario y Secundario)",
+        description: "A partir de la pandemia, el ejercicio de escribir evaluaciones narradas se ha transformado en algo cotidiano y obligatorio para los docentes. Si bien en el nivel primario se suelen formular este tipo de valoraciones de forma sintética, para los profesores del nivel Secundario esto se ha transformado en un desafío inédito. El taller aborda técnicas ágiles de registro áulico que permitan la construcción dinámica de una matriz de narración. Luego se presentan estrategias de escritura simples, que permiten al participante elaborar diferentes valoraciones a partir de un enfoque profesional. Luego del ejercicio individual de escritura, se comparten las producciones utilizando las cualidades digitales del aula taller. Se van buscando similitudes y diferencias entre los distintos participantes, siendo el especialista quién realiza aportaciones y sugerencias comunes. Finalmente, se abordan algunas técnicas digitales para una elaboración más dinámica de las narraciones, con el afán de que la valoración no pierda calidad ni especificidad, pero sea un proceso que optimice el tiempo que le lleva al docente.",
+        price: "3000.00",
+        pictureURL: "https://geoeducacion.com.ar/congresos/assets/img/A_narrados.jpg",
+    },
+    {
+        id: "4",
+        category: "NIVEL PRIMARIO",
+        id_category: "3",
+        title: "CAPACITACIÓN EN REDACCIÓN DE INFORMES NARRADOS (Nivel Primario)",
+        description: "A partir de la pandemia, el ejercicio de escribir evaluaciones narradas se ha transformado en algo cotidiano y obligatorio para los docentes. Si bien en el nivel primario se suelen formular este tipo de valoraciones de forma sintética, para los profesores del nivel Secundario esto se ha transformado en un desafío inédito. El taller aborda técnicas ágiles de registro áulico que permitan la construcción dinámica de una matriz de narración. Luego se presentan estrategias de escritura simples, que permiten al participante elaborar diferentes valoraciones a partir de un enfoque profesional. Luego del ejercicio individual de escritura, se comparten las producciones utilizando las cualidades digitales del aula taller. Se van buscando similitudes y diferencias entre los distintos participantes, siendo el especialista quién realiza aportaciones y sugerencias comunes. Finalmente, se abordan algunas técnicas digitales para una elaboración más dinámica de las narraciones, con el afán de que la valoración no pierda calidad ni especificidad, pero sea un proceso que optimice el tiempo que le lleva al docente.",
+        price: "3000.00",
+        pictureURL: "https://geoeducacion.com.ar/congresos/assets/img/A_narrados.jpg",
+    },
+    {
+        id: "5",
+        category: "NIVEL INICIAL",
+        id_category: "2",
+        title: "CAPACITACIÓN EN REDACCIÓN DE INFORMES NARRADOS (Nivel Inicial)",
+        description: "A partir de la pandemia, el ejercicio de escribir evaluaciones narradas se ha transformado en algo cotidiano y obligatorio para los docentes. Si bien en el nivel primario se suelen formular este tipo de valoraciones de forma sintética, para los profesores del nivel Secundario esto se ha transformado en un desafío inédito. El taller aborda técnicas ágiles de registro áulico que permitan la construcción dinámica de una matriz de narración. Luego se presentan estrategias de escritura simples, que permiten al participante elaborar diferentes valoraciones a partir de un enfoque profesional. Luego del ejercicio individual de escritura, se comparten las producciones utilizando las cualidades digitales del aula taller. Se van buscando similitudes y diferencias entre los distintos participantes, siendo el especialista quién realiza aportaciones y sugerencias comunes. Finalmente, se abordan algunas técnicas digitales para una elaboración más dinámica de las narraciones, con el afán de que la valoración no pierda calidad ni especificidad, pero sea un proceso que optimice el tiempo que le lleva al docente.",
+        price: "3000.00",
+        pictureURL: "https://geoeducacion.com.ar/congresos/assets/img/A_narrados.jpg",
+    }
+]

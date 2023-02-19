@@ -1,17 +1,20 @@
 import React from "react";
 import Nav from 'react-bootstrap/Nav';
 import "./style.css";
+import { NavLink } from "react-router-dom";
 
 
-const NavLinkGEO = ({titlebutton}) => {
+
+const NavLinkGEO = ({category,id_category}) => {
 
     return (
         
-        <Nav.Link>{titlebutton}</Nav.Link>
+        <NavLink className="category_title" to={`/category/${id_category}`}>{category}</NavLink>
         
         
     );
 
+    
 };
 
 export default NavLinkGEO;
